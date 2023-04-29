@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html style="font-size: 16px;" lang="en"><head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Home</title>
+    <link rel="stylesheet" href="nicepage.css" media="screen">
+<link rel="stylesheet" href="Home.css" media="screen">
+    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+    <meta name="generator" content="Nicepage 5.5.0, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "Natural Hearing Formula"
+}</script>
+    <meta name="theme-color" content="#478ac9">
+    <meta property="og:title" content="Home">
+    <meta property="og:description" content="">
+    <meta property="og:type" content="website">
+  <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
+  <body data-home-page="Home.php" data-home-page-title="Home" class="u-body u-xl-mode" data-lang="en"><header class="u-clearfix u-grey-5 u-header u-header" id="sec-c1ba"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://vclit.com/crtxi-michael" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-black u-radius-50 u-btn-1">YES, GIVE ME MY DISCOUNT LINK!</a>
+        <nav class="u-menu u-menu-one-level u-offcanvas u-menu-1">
+          <div class="menu-collapse" style="font-size: 1.125rem; font-weight: 700;">
+            <a class="u-button-style u-custom-border-radius u-custom-color u-custom-left-right-menu-spacing u-nav-link" href="#" style="padding: 2px 0px; font-size: calc(1em + 4px);">
+              <svg class="u-svg-link" viewBox="0 0 24 24"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-fe07"></use></svg>
+              <svg class="u-svg-content" version="1.1" id="svg-fe07" viewBox="0 0 16 16" x="0px" y="0px" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"><g><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</g></svg>
+            </a>
+          </div>
+          <div class="u-nav-container">
+            <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-custom-color-2 u-nav-link u-radius-42" href="Home.php" style="padding: 10px 28px;">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-custom-color-2 u-nav-link u-radius-42" href="PRIVACY.php" style="padding: 10px 28px;">PRIVACY</a>
+</li><li class="u-nav-item"><a class="u-button-style u-custom-color-2 u-nav-link u-radius-42" href="TERMS.php" style="padding: 10px 28px;">TERMS</a>
+</li><li class="u-nav-item"><a class="u-button-style u-custom-color-2 u-nav-link u-radius-42" href="DMCA.php" style="padding: 10px 28px;">DMCA</a>
+</li></ul>
+          </div>
+          <div class="u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-inner-container-layout u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="Home.php">Home</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="PRIVACY.php">PRIVACY</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="TERMS.php">TERMS</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link" href="DMCA.php">DMCA</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+    <section class="u-clearfix u-grey-5 u-section-1" id="sec-2a50">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-md u-valign-middle-xs u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-align-center u-container-style u-layout-cell u-left-cell u-shape-rectangle u-size-60 u-size-xs-60 u-layout-cell-1" src="">
+                <div class="u-container-layout u-valign-top u-container-layout-1">
+                  <h1 class="u-text u-text-custom-color-2 u-text-1">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-2 u-btn-1" href="https://vclit.com/crtxi-michael">CORTEXI<br>
+                    </a>
+                  </h1>
+                  <h2 class="u-text u-text-2">SAVE UPTO 780$<br>
+                  </h2>
+                  <p class="u-align-center u-text u-text-3"> Your order today is protected by my iron-clad <b>100% money-back guarantee</b>.<b></b><b></b><b>&nbsp;</b>
+                    <br>
+                    <br><b>Coretexi&nbsp;</b>is <b>unlike anything</b> you’ve ever tried or experienced in your life before.&nbsp;<br>
+                    <br>
+                    <span style="font-weight: 700;"></span>
+                    <span style="font-weight: 700;"></span>
+                    <span style="font-weight: 700;"> 100% Natural Formula </span>Expressly Designed to Support Healthy Hearing and Mental Sharpness Well Into <span style="font-weight: 700;">Your Golden Years.</span>
+                    <br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>We are so confident you'll <b>enjoy life-changing results</b> that we're prepared to back up the<b> Cortexi&nbsp;</b>with a <b>100% Satisfaction Guarantee</b> for the next <b>60 days.</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br>
+                  </p>
+                  <a href="https://vclit.com/crtxi-michael" class="u-btn u-button-style u-none u-text-custom-color-2 u-text-hover-black u-btn-2">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-2"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+                  </a>
+                  <a href="https://vclit.com/crtxi-michael" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-black u-radius-50 u-btn-3">YES, GIVE ME MY DISCOUNT LINK!</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-clearfix u-grey-5 u-section-2" id="carousel_5f58">
+      <div class="u-clearfix u-sheet u-valign-middle-lg u-sheet-1">
+        <div class="u-clearfix u-expanded-width u-gutter-0 u-layout-wrap u-layout-wrap-1">
+          <div class="u-layout" style="">
+            <div class="u-layout-row" style="">
+              <div class="u-align-center u-container-style u-layout-cell u-right-cell u-size-60 u-size-xs-60 u-layout-cell-1" src="">
+                <div class="u-container-layout u-valign-middle-lg u-valign-middle-md u-valign-middle-sm u-valign-middle-xl u-valign-top-xs u-container-layout-1" src="">
+                  <img class="u-image u-image-contain u-image-default u-image-1" src="images/cortex1.png" alt="" data-image-width="423" data-image-height="541" data-href="https://vclit.com/crtxi-michael">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-2 u-section-3" id="sec-91b1">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h1 class="u-text u-text-default-lg u-text-default-md u-text-default-sm u-text-default-xl u-text-1">Get Your Discounted Cortexi, While They Last!</h1>
+      </div>
+    </section>
+    <section class="u-clearfix u-grey-5 u-section-4" id="sec-755a">
+      <div class="u-clearfix u-sheet u-valign-bottom u-sheet-1">
+        <img class="u-image u-image-contain u-image-default u-image-1" src="images/crtxsi2d2.png" alt="" data-image-width="1192" data-image-height="834" data-href="https://vclit.com/crtxi-michael">
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-2 u-section-5" id="carousel_d767">
+      <div class="u-clearfix u-sheet u-sheet-1">
+        <h1 class="u-text u-text-default u-text-1">Those Who Tried Cortexi Say</h1>
+      </div>
+    </section>
+    <section class="u-align-left u-clearfix u-grey-5 u-section-6" id="sec-08a4">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <div id="carousel-5989" data-interval="5000" data-u-ride="carousel" class="u-carousel u-slider u-slider-1">
+          <ol class="u-absolute-hcenter u-carousel-indicators u-hidden u-carousel-indicators-1">
+            <li data-u-target="#carousel-5989" class="u-active u-grey-30 u-shape-circle" data-u-slide-to="0" style="width: 10px; height: 10px;"></li>
+            <li data-u-target="#carousel-5989" class="u-grey-30 u-shape-circle" data-u-slide-to="1" style="width: 10px; height: 10px;"></li>
+          </ol>
+          <div class="u-carousel-inner" role="listbox">
+            <div class="u-active u-carousel-item u-container-style u-slide">
+              <div class="u-container-layout u-container-layout-1">
+                <p class="u-align-center u-large-text u-text u-text-variant u-text-1"> I actually took Cortexi on the recommendation of a friend, 
+after I’d already tried everything else. Let me tell you - nothing on 
+the market compares to this. I’m three months in, my mind is sharp and 
+the mental fog has lifted!</p>
+                <h4 class="u-align-center u-text u-text-2">Jim Make<br>
+                </h4>
+              </div>
+            </div>
+            <div class="u-align-center u-carousel-item u-container-style u-expanded-width u-slide">
+              <div class="u-container-layout u-container-layout-2">
+                <p class="u-align-center u-large-text u-text u-text-default-lg u-text-default-md u-text-default-xl u-text-variant u-text-3"> &nbsp; I treasure my peace and quiet more than anything. So I’m 
+well aware just how important the health of my ears is. Knowing that by 
+taking Cortexi I’m feeding my hearing these essential nutrients helps me
+ sleep better at night. Definitely give this one a try.</p>
+                <h4 class="u-align-center u-text u-text-4">Jay Home<br>
+                </h4>
+              </div>
+            </div>
+          </div>
+          <a class="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-sm u-absolute-vcenter-xl u-carousel-control u-carousel-control-prev u-text-grey-30 u-carousel-control-1" href="#carousel-5989" role="button" data-u-slide="prev">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+            </span>
+            <span class="sr-only">
+              <svg viewBox="0 0 451.847 451.847"><path d="M97.141,225.92c0-8.095,3.091-16.192,9.259-22.366L300.689,9.27c12.359-12.359,32.397-12.359,44.751,0
+c12.354,12.354,12.354,32.388,0,44.748L173.525,225.92l171.903,171.909c12.354,12.354,12.354,32.391,0,44.744
+c-12.354,12.365-32.386,12.365-44.745,0l-194.29-194.281C100.226,242.115,97.141,234.018,97.141,225.92z"></path></svg>
+            </span>
+          </a>
+          <a class="u-absolute-vcenter-lg u-absolute-vcenter-md u-absolute-vcenter-sm u-absolute-vcenter-xl u-carousel-control u-carousel-control-next u-text-grey-30 u-carousel-control-2" href="#carousel-5989" role="button" data-u-slide="next">
+            <span aria-hidden="true">
+              <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+            </span>
+            <span class="sr-only">
+              <svg viewBox="0 0 451.846 451.847"><path d="M345.441,248.292L151.154,442.573c-12.359,12.365-32.397,12.365-44.75,0c-12.354-12.354-12.354-32.391,0-44.744
+L278.318,225.92L106.409,54.017c-12.354-12.359-12.354-32.394,0-44.748c12.354-12.359,32.391-12.359,44.75,0l194.287,194.284
+c6.177,6.18,9.262,14.271,9.262,22.366C354.708,234.018,351.617,242.115,345.441,248.292z"></path></svg>
+            </span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <section class="u-align-center u-clearfix u-custom-color-2 u-section-7" id="carousel_5e10">
+      <div class="u-clearfix u-sheet u-valign-middle u-sheet-1">
+        <h1 class="u-text u-text-default u-text-1">Frequently Asked Questions</h1>
+      </div>
+    </section>
+    <section class="u-clearfix u-grey-5 u-section-8" id="sec-899b">
+      <div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
+        <p class="u-text u-text-1">
+          <span style="font-weight: 700;"></span>
+          <span style="font-weight: 700;">1. Is Cortexi Right For Me?</span>
+          <br>
+          <br> Cortexi has provided amazing hearing support for men and
+ women in their 30s, 40, 50s and even 70s. Because it was engineered 
+based on teachings of modern science, Cortexi formula is very gentle yet
+ very powerful at the same time using pure plant ingredients and natural
+ minerals. And you can rest assured knowing it's manufactured in the 
+United States in a state-of-the-art FDA registered and GMP certified 
+facility.&nbsp;<br>&nbsp;<span style="font-weight: 700;">
+            <br>2. How Long Will It Take To See Results?
+          </span>
+          <br>
+          <br> We're all different and that's why the time it takes to 
+see results varies. Most people start feeling a difference after the 
+first week. In our tests, the best results come when you take Cortexi 
+consistently for 3 months (or longer) to support and optimize your 
+entire system. Therefore, we strongly recommend you take advantage of 
+our 3 or 6 bottle discount package.&nbsp;<br>&nbsp;<br>
+          <span style="font-weight: 700;">3. Ok I am ready to make my order. What now?</span>
+          <br>
+          <br> To make sure you are buying the original product and to 
+ensure the purity of ingredients please buy from the official website 
+only. We'll ship your order directly to your home or office using a 
+premium carrier such as FedEx or UPS. We strive to ship every order 
+within 24 working hours and to make things easy you will receive an 
+email with your tracking number so that you can follow your package. On 
+average, the package will arrive at your doorstep somewhere between 5 to
+ 10 days for domestic orders. <br>
+        </p>
+        <a href="https://vclit.com/crtxi-michael" class="u-border-none u-btn u-btn-round u-button-style u-custom-color-2 u-hover-black u-radius-50 u-btn-1">YES, GIVE ME MY DISCOUNT LINK!</a>
+        <a href="https://vclit.com/crtxi-michael" class="u-btn u-button-style u-none u-text-custom-color-2 u-text-hover-black u-btn-2">OFFICIAL WEBSITE&nbsp;<span class="u-icon u-text-custom-color-2"><svg class="u-svg-content" viewBox="0 -32 426.66667 426" style="width: 1em; height: 1em;"><path d="m213.332031 181.667969c0 4.265625-1.277343 8.53125-3.625 11.730469l-106.667969 160c-3.839843 5.761718-10.238281 9.601562-17.707031 9.601562h-64c-11.730469 0-21.332031-9.601562-21.332031-21.332031 0-4.269531 1.28125-8.535157 3.625-11.734375l98.773438-148.265625-98.773438-148.269531c-2.34375-3.199219-3.625-7.464844-3.625-11.730469 0-11.734375 9.601562-21.335938 21.332031-21.335938h64c7.46875 0 13.867188 3.839844 17.707031 9.601563l106.667969 160c2.347657 3.199218 3.625 7.464844 3.625 11.734375zm0 0"></path><path d="m426.667969 181.667969c0 4.265625-1.28125 8.53125-3.628907 11.730469l-106.664062 160c-3.839844 5.761718-10.242188 9.601562-17.707031 9.601562h-64c-11.734375 0-21.335938-9.601562-21.335938-21.332031 0-4.269531 1.28125-8.535157 3.628907-11.734375l98.773437-148.265625-98.773437-148.269531c-2.347657-3.199219-3.628907-7.464844-3.628907-11.730469 0-11.734375 9.601563-21.335938 21.335938-21.335938h64c7.464843 0 13.867187 3.839844 17.707031 9.601563l106.664062 160c2.347657 3.199218 3.628907 7.464844 3.628907 11.734375zm0 0"></path></svg><img></span>
+        </a>
+      </div>
+    </section>
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-grey-5 u-footer" id="sec-8737"><div class="u-clearfix u-sheet u-sheet-1">
+        <img class="u-image u-image-contain u-image-default u-image-1" src="images/31.png" alt="" data-image-width="899" data-image-height="160">
+        <p class="u-align-left u-text u-text-1"><b></b>© Cortexi Research 2023 All Rights Reserved. 924 N Magnolia Ave, Suite 202, Unit #5383 Orlando, FL 32803
+        </p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+      <a class="u-link" href="https://nicepage.com/website-templates" target="_blank">
+        <span>Website Templates</span>
+      </a>
+      <p class="u-text">
+        <span>created with</span>
+      </p>
+      <a class="u-link" href="" target="_blank">
+        <span>Website Builder Software</span>
+      </a>. 
+    </section>
+  
+</body></html>
